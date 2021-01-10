@@ -1,4 +1,4 @@
 {
-    "dbURI": "mongodb+srv://shubham:shubham123@cluster0.lyhve.mongodb.net/items?retryWrites=true&w=majority",
-    "jwtsecret": "shopping list mern app"
+    "dbURI": "YOUR MONGODB URI",
+    "jwtsecret": "YOUR SECRET CODE"
 }
